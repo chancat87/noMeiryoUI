@@ -16,6 +16,6 @@ cd files
 7z a -mx9 ..\langpack\ko-KR.zip ko-KR.chm ko-KR.lng
 7z a -mx9 ..\langpack\pt-BR.zip pt-BR.chm pt-BR.lng
 7z a -mx9 ..\langpack\zh-CN.zip zh-CN.chm zh-CN.lng
-7z a -mx9 ..\langpack\zh-TR.zip zh-TW.chm zh-TW.lng
+7z a -mx9 ..\langpack\zh-TW.zip zh-TW.chm zh-TW.lng
 
 cd ..
